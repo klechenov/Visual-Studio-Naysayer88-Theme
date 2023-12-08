@@ -1,2 +1,3 @@
-# Visual-Studio-Naysayer88-Theme
-soulja boy don't like it.
+# Visual Studio Naysayer88 Theme
+
+Based on this vs code theme - https://github.com/Frany-oss/j_blow-Theme
