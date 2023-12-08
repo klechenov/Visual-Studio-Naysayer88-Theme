@@ -1,4 +1,4 @@
-# Visual Studio Naysayer88 Theme
+# Visual Studio Jonathan Blow (j_blow / Naysayer88) Theme
 
 Based on this vs code theme - https://github.com/Frany-oss/j_blow-Theme
 
